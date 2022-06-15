@@ -11,3 +11,5 @@ $1^{st}$ place at [AffectMove 2021 Challenge](http://www.casapaganini.it/entimem
 Name: Kim Ngan Ngan
 
 **PAPER: Multimodal Convolutional Neural Network Model for Protective Behavior Detection based on Body Movement Data** [here](https://ieeexplore.ieee.org/abstract/document/9666290/)
+
+Code will be updated later
